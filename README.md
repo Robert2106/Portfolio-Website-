@@ -1,111 +1,70 @@
-# Portfolio-Website-
-Portfolio Website
-Software Requirements Specification(SRS)
+# Getting Started with Create React App
 
-Contents:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Purpose
+## Available Scripts
 
-Stakeholders
+In the project directory, you can run:
 
-Functional Requirements 
+### `npm start`
 
-Non-Functional Requirements 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-UI (User Interface)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Hardware Requirement
+### `npm test`
 
-System Architecture
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Data management
+### `npm run build`
 
-Testing & quality assurance
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Conclusion
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-PURPOSE:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-A portfolio website is a unique way to showcase your work and let others know about yourself.
+### `npm run eject`
 
-STAKEHOLDERS:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-The  stakeholders for this project include the
-                TEAM HEAD Yuvakrishnan S R 
-                TEAM MEMBERS Robertson C ,Kishanth T 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-FUNCTIONAL REQUIREMENTS:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Home, User profile, Access, Contact, About.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-NON-FUNCTIONAL REQUIREMENTS:
+## Learn More
 
-Performance:-
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-             Website should load quickly and respond to user interactions without any noticeable delay.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Security:-
+### Code Splitting
 
-              The website should be secure and protected against common attacks such as cross sight Scripting (XSS) and SQL injection.
-        
-Maintainablility:-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-             The code base should be easy to maintain and update with clear documentation and consistent coding standards. 
+### Analyzing the Bundle Size
 
-Responsiveness:-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-             The website should be mobile friendly and should adjust its layout according to the device’s screen size.
+### Making a Progressive Web App
 
-Performance:-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-              The website should be optimized for performance with low page loading time optimized images and                 
-              minified code. 
+### Advanced Configuration
 
-UI(user interface):
-            
-1.Home page 
-2.User profile
-3.About us
-4.Contact
-5.Terms & Conditions
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-HARDWARE REQUIREMENTS:
+### Deployment
 
-• Processor
-                Any modern processor with at least 2 cores and a clock speed of 2.5GHz or higher should be sufficient. 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-• RAM
-               At least 4GB of RAM is recommended, although 8GB or more is better for larger websites.
+### `npm run build` fails to minify
 
-• Storage
-                A solid-state drive (SSD) is recommended for faster website loading times and improved overall performance. 
-               A minimum of 250GB of storage space is recommended.
-
-• Display
-                 A high-resolution display with a resolution of at least 1920x1080 pixels is recommended for optimal viewing and 
-                editing of the website.
- 
-• Internet Connection 
-                 A fast and stable internet connection with at least 10 Mbps download and 5 Mbps upload speeds is recommended
-               for uploading and accessing the website
-
-SYSTEM ARCHITECTURE:
-
-The website will be build using the HTML, CSS, Bootstrap, Hosting Gitup.
-
-DATA MANAGEMENT:
-
-User can easily access our web page and data’s are stored in System Database.
-
-TESTING & QUALITY ASSURANCE:
-
-The website has been tested on several device by our team and is been completly  and the datas will be secured
-
-CONCLUSION:
-
-This SRS outlines the key requirements and the features for an Portfolio website built using the HTML , CSS,
-JAVASCRIPT, PHP.
-
-
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
